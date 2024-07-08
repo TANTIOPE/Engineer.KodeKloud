@@ -6,3 +6,4 @@ a. Create a group named `nautilus_developers` across all App servers within the 
 b. Add the user `rajesh` into the `nautilus_developers` group on all App servers. If the user doesn't exist, create it as well.
 
 # Solution
+![image](https://github.com/TANTIOPE/Engineer.KodeKloud/blob/main/images/image_2024-07-08_164607341.png?raw=true)
