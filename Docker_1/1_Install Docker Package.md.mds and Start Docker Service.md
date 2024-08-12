@@ -12,7 +12,7 @@ The Nautilus DevOps team aims to containerize various applications following a r
     Start by logging into App Server 2 using the provided credentials.
 
     ```bash
-    ssh banner@172.16.238.11
+    ssh steve@172.16.238.11
     ```
 
 2. **Install Prerequisite Packages:**
